@@ -1,6 +1,6 @@
 # S&P 500 Heatmap 📊
 
-This project is a simple Python script that generates a heatmap of the S&P 500 index using the data from the Unusual Whales API. It is meant to look like the heatmap on the [Unusual Whales website](https://unusualwhales.com/heatmaps).
+This project is a simple Python script that generates a heatmap of the S&P 500 index using the data from the Unusual Whales API. It is meant to look like the heatmap on the [Unusual Whales website](https://unusualwhales.com/heatmaps). You can save the heatmap as an image or open the dashboard to have a more detailed look into all the values.
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="Supported versions">
@@ -12,7 +12,7 @@ This project is a simple Python script that generates a heatmap of the S&P 500 i
 
 ## Introduction
 
-If you have traded stocks you have probably come across the S&P 500 index and the heatmaps that are used to visualize the performance of the index. It provides a quick overview of the performance of the index and can be used to identify trends and patterns. There are many sites that provide these heatmaps, but I wanted to create my own version using Python.
+If you have traded stocks you have probably come across the S&P 500 index and the heatmaps that are used to visualize the performance of the index. It provides a quick overview of the performance of the index and can be used to identify trends and patterns. Many sites provide these heatmaps, but I wanted to create my version using Python.
 
 ## Installation ⚙️
 
